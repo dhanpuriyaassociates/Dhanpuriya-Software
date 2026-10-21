@@ -1,0 +1,6 @@
+{
+  "name": "Dhanpuriya",
+  "description": "Enterprise Restaurant, QSR, Canteen, Mess & Catering Operating System (FoodOS™) with offline-first POS, KDS kitchen display, statutory Bharat GST tax engine, RFID meal punch, and recipe BOM inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
